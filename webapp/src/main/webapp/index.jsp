@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Devops Training Batch-5  </h1>
+<h1> Hello, Welcome to Devops Training Batch-6  </h1>
